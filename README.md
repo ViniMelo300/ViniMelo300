@@ -96,23 +96,3 @@
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vinimelo300&hide=contribs,prs&show_icons=true&theme=dark&show=,prs_merged,prs_merged_percentage" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMelo300&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
