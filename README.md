@@ -8,7 +8,9 @@
 
 💡 Focado em aprimorar minhas habilidades em [JavaScript, CSS, C, Java e Python].
 
-📫 Sinta-se à vontade para entrar em contato!
+📫 Sinta-se à vontade para entrar em contato! 
+
+📧 vinimelomaciel@gmail.com
 
 <p align="left">
     <a href="https://github.com/ViniMelo300?tab=repositories&sort=stargazers">
@@ -96,3 +98,5 @@
 
 <br/>
 <br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMelo300&size_weight=0.5&count_weight=0.5)
